@@ -39,6 +39,14 @@ Performance analysis of multi-channel marketing campaigns to optimize budget all
 
 
 ## III. Visualization
+### 1. Marketing campaign Overview 
+<img width="1216" height="713" alt="image" src="https://github.com/user-attachments/assets/86042612-7b66-48c1-8e35-04281528d670" />
+
+### 2. Channal Analysis
+<img width="1217" height="709" alt="image" src="https://github.com/user-attachments/assets/8fa75df7-3e8e-449e-af9c-4cd50c1aea66" />
+
+### 3. City Analysis (Drill-through)
+<img width="1214" height="711" alt="image" src="https://github.com/user-attachments/assets/e3f64d0e-83fe-455f-98e9-b8fadca808ee" />
 
 ## IV. Insights & Recommendation
 ### 1. Insights
