@@ -1,4 +1,4 @@
-# [Power BI] Marketing-Campaign-Analysis
+# [Power BI] Marketing Campaign Performance Analysis | Marketing
 Performance analysis of multi-channel marketing campaigns to optimize budget allocation and improve communication strategy.
 ## I. Introduction
 
