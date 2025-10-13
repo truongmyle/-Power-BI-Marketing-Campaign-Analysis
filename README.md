@@ -13,8 +13,8 @@ Tools Used: Power BI
 1. [📌 Background & Overview](#-background--overview)  
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
 3. [🧠 Design Thinking Process](#-design-thinking-process)  
-4. [📊 Visualizations](#-key-insights--visualizations)  
-5. [🔎 Insights & Recommendations](#-final-conclusion--recommendations)
+4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
+5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 ---
 
@@ -78,50 +78,70 @@ This project builds an interactive Marketing Campaign Performance Dashboard usin
 
 ---
 
-## Visualizations  
+## 📊 Key Insights & Visualizations    
 
 ### 🔍 Dashboard Preview  
 
 #### 1️⃣ Marketing campaign Overview 
 
-<img width="1216" height="713" alt="image" src="https://github.com/user-attachments/assets/86042612-7b66-48c1-8e35-04281528d670" />
+<img width="1243" height="730" alt="image" src="https://github.com/user-attachments/assets/830ce799-6897-4402-ab50-54f9c6c58bbe" />
+
+🎯Observations:
+
+**By Month:**
+- ROI peaked during **Jun–Aug** with **moderate spending** (~$150K), showing **highest efficiency** at balanced investment levels.
+- **Sep - Nov** delivered the **strongest sales and profit** of the year, proving that campaign scaling was effective.
+- ROI **dipped in Sep** (7.7) due to rapid spending growth but **recovered in Oct–Nov** (8.5–9.1) as investment efficiency was optimized.
+  
+**By Channel:**
+- **Instagram** achieved the highest CTR (1.42%) with low CPC (0.92) → **best-performing platform.**
+  
+- Facebook recorded an average CTR (1.29%) but highest CPC (1.02) → reducing efficiency.
+  
+- **Pinterest** had the **lowest CTR**(0.99%) yet the **highest ROI & Conversion Rate**, indicating **fewer clicks** but **higher-quality leads.**
+
+**By Weekday:**
+
+- **Friday** recorded the **highest Engagement Rate** despite the **lowest Impressions**, suggesting it’s the optimal day for engagement-focused campaigns or increased budget allocation.
+
+**By City:**
+- London had the **highest spend** but **lowest ROI** → investment **not yet efficient**.
+- Manchester generated the highest revenue and profit,
+- Birmingham had the **lowest** spend but **highest ROI**, demonstrating excellent profitability and potential for scaled investment.
 
 #### 2️⃣ Channal Analysis
 
-<img width="1217" height="709" alt="image" src="https://github.com/user-attachments/assets/8fa75df7-3e8e-449e-af9c-4cd50c1aea66" />
+<img width="1196" height="700" alt="image" src="https://github.com/user-attachments/assets/a43a524a-570c-4833-9ddc-79fcd11015bc" />
 
+🎯Observations:
+
+- **Pinterest** achieved the **highest ROI** (21.5), leading across all three cities despite lower spending.
+- **Instagram** showed the **highest engagement rate** and stable performance, while **Facebook** had the **largest reach but lower ROI**.
+- By season, **Facebook & Instagram** performed best in **Summer**, while **Pinterest** peaked in **Fall**.
+  
 #### 3️⃣ City Analysis (Drill-through)
 
 <img width="1214" height="711" alt="image" src="https://github.com/user-attachments/assets/e3f64d0e-83fe-455f-98e9-b8fadca808ee" />
 
 ---
 
-## 🔎 Insights & Recommendation  
+## 🔎 Final Conclusion & Recommendations    
 
-### 1. Insights
-- **By Time (Monthly Trends)**
-    - ROI spiked between June–August (~13) but dropped sharply in September (~7.7).
-    - Despite higher impressions in September, engagement rate decreased → reach quality declined.
-- **By Channel**
-    - **Pinterest**: Highest ROI and conversion rate → clear driver of efficiency.
-    - **Instagram**: Balanced performance, moderate ROI.
-    - **Facebook**: Significant investment but low ROI → weak conversion effectiveness.
-- **By City**
-    - **Birmingham**: Strong ROI, especially from Pinterest campaigns.
-    - **Manchester**: Underperforming ROI despite decent impressions.
-    - **London**: High spend but weak ROI → potential inefficiency.
+### 1. Conclusion
+- Campaigns performed best during **Jun–Aug**, proving that **moderate spending yields optimal ROI.**
+- **Sales and profit** peaked during **Sep–Nov**, indicating that the campaign scale was effectively expanded.
+- **Pinterest** consistently delivered the **highest ROI and conversion rate**, while **Facebook underperformed** despite high investment.
+- Across cities, **Birmingham** achieved the **strongest ROI**; **London**’s spend was high but **inefficient**.
 ### 2. Recommendations
 - **Budget Optimization**
-    - Shift budget from **Facebook (low ROI)** to **Pinterest (high ROI & CR)**.
+    - Reallocate budget from **Facebook (low ROI)** to **Pinterest (high ROI & CR)**.
     - Keep limited Facebook budget for awareness only → avoid waste.
     - Test new audience targeting and creatives on Instagram for potential uplift.
 - **Communication Strategy**
-    - **Pinterest**: Scale further as main conversion channel.
+    - **Pinterest**: Scale further as **main conversion channel.**
     - **Facebook**: Use as **top-of-funnel (awareness)**, integrate with retargeting on Pinterest/Instagram.
     - **Instagram**: Use for both awareness and conversion experiments.
 - **City-level Actions**
     - **Birmingham**: Expand Pinterest campaigns to maximize strong ROI.
     - **Manchester**: Refresh creatives/targeting to improve performance.
     - **London**: Audit conversion funnel → if ROI remains low, reduce budget allocation.
-- **Tables**: Consistent losses → discontinue or implement new pricing strategy.
-- **Canon Copier**: High return rate → investigate and address quality/operational issues.
