@@ -50,11 +50,11 @@ This project builds an interactive Marketing Campaign Performance Dashboard usin
 
 #### 1️⃣ Data Dictionary:  
 
-  <img width="1147" height="627" alt="image" src="https://github.com/user-attachments/assets/752f25f2-0f2a-4111-88ac-51f2691c57cd" />
+<img width="1147" height="627" alt="Ảnh chụp màn hình 2025-09-23 193735" src="https://github.com/user-attachments/assets/f32f260a-b56b-448b-ac53-0886d7896eff" />
 
 #### 2️⃣ Data Relationships:  
 
-<img width="1015" height="469" alt="image" src="https://github.com/user-attachments/assets/e4a43037-43fb-4e7e-8abd-c2371c3adabd" />
+<img width="1015" height="469" alt="mar" src="https://github.com/user-attachments/assets/72bba117-2af2-49ce-a73c-cae07076110a" />
 
 ---
 
@@ -62,15 +62,15 @@ This project builds an interactive Marketing Campaign Performance Dashboard usin
 
 ### Step 1: Empathize
 
-<img width="1852" height="571" alt="image" src="https://github.com/user-attachments/assets/4d9724d7-2897-4ed9-8292-3fef10e68a53" />
+<img width="1845" height="603" alt="pj4-1" src="https://github.com/user-attachments/assets/83340e63-52c1-4737-bd0c-e67b543c7cc7" />
 
 ### Step 2: Define POV
 
-<img width="1483" height="626" alt="image" src="https://github.com/user-attachments/assets/23bbd2be-d0fe-4008-a12c-615b9f6573b2" />
+<img width="1292" height="585" alt="pj4-2" src="https://github.com/user-attachments/assets/1d312d4a-44dc-44e2-8359-65d103e14fe2" />
 
 ### Step 3: Ideate
 
-<img width="1838" height="588" alt="image" src="https://github.com/user-attachments/assets/77601213-238a-4031-8ab3-086b03414642" />
+<img width="1740" height="550" alt="pj4-3" src="https://github.com/user-attachments/assets/05f5ae47-bdb7-42a4-b5ab-890a675695df" />
 
 ### Step 4: Prototype and Review
 
@@ -84,7 +84,7 @@ This project builds an interactive Marketing Campaign Performance Dashboard usin
 
 #### 1️⃣ Marketing campaign Overview 
 
-<img width="1243" height="730" alt="image" src="https://github.com/user-attachments/assets/830ce799-6897-4402-ab50-54f9c6c58bbe" />
+<img width="1243" height="730" alt="Screenshot 2025-10-13 224156" src="https://github.com/user-attachments/assets/e8d50658-47a4-43a4-b437-54b0db91daf9" />
 
 🎯Observations:
 
@@ -111,7 +111,7 @@ This project builds an interactive Marketing Campaign Performance Dashboard usin
 
 #### 2️⃣ Channal Analysis
 
-<img width="1196" height="700" alt="image" src="https://github.com/user-attachments/assets/a43a524a-570c-4833-9ddc-79fcd11015bc" />
+<img width="1196" height="700" alt="Screenshot 2025-10-14 000041" src="https://github.com/user-attachments/assets/1b0045e8-abf8-403e-baee-0b1a927cc043" />
 
 🎯Observations:
 
@@ -121,7 +121,7 @@ This project builds an interactive Marketing Campaign Performance Dashboard usin
   
 #### 3️⃣ City Analysis (Drill-through)
 
-<img width="1214" height="711" alt="image" src="https://github.com/user-attachments/assets/e3f64d0e-83fe-455f-98e9-b8fadca808ee" />
+<img width="1244" height="731" alt="Screenshot 2025-10-15 003709" src="https://github.com/user-attachments/assets/0445b9cd-780a-4a3f-8d74-9d97a42ae1fa" />
 
 ---
 
